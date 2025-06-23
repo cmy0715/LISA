@@ -1,3 +1,5 @@
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)
+
 # LISA (Linked Interactive Source Automator)
 
 LISA is a client server architecture application based on C++, designed to provide linked interactive source code automation functionality. This project consists of two main modules: client and server, supporting core functions such as Git integration and compilation processing.
